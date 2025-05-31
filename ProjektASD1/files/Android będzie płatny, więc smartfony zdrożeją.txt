@@ -1,0 +1,38 @@
+Android bêdzie p³atny, wiêc smartfony zdro¿ej¹
+
+23.10.2018
+
+Google zmienia w Europie zasady dystrybucji systemu, kar¹ zmusi³a go do tego Komisja Europejska. Konsekwencje ponios¹ klienci, bo wiêcej zap³ac¹ za urz¹dzenia.
+Krótkotrwa³a by³a radoœæ Komisji Europejskiej z pokonania potêgi Google’a. Koncern dosta³ w lipcu karê 4,3 mld dol. za ³¹czenie systemu Android z wyszukiwark¹ Google oraz przegl¹dark¹ Chrome. By³ to pomys³owy zabieg, dziêki temu zdobywa³ u¿ytkowników swoich kluczowych us³ug, którzy korzystaj¹c z nich windowali zyski firmy. Android by³ ci¹gle za darmo i stanowi³ rozrastaj¹ce siê œrodowisko, co u¿ytkownicy doceniali i niewielu instalowa³o inn¹ przegl¹darkê.
+
+Google odwo³a³ siê od kary, ale postanowi³ zmodyfikowaæ w Europie model dystrybucji swojego systemu Android, a zmiany zaczynaj¹ siê ju¿ 29 paŸdziernika.
+
+Bêd¹ op³aty
+
+– Poniewa¿ preinstalowanie aplikacji Google oraz Chrome razem z innymi aplikacjami pomaga³o nam finansowaæ rozwój oraz bezp³atn¹ dystrybucjê Androida, wprowadzimy now¹, p³atn¹ umowê licencyjn¹ dla smartfonów i tabletów rozprowadzanych na terenie EOG. Android dalej bêdzie darmowy i udostêpniany na zasadach open source – wyjaœnia Hiroshi Lockheimer, starszy wiceprezes Google’a. – Zaoferujemy te¿ osobne licencje na aplikacjê Google oraz Chrome.
+
+Co to oznacza dla klienta? Oczywiœcie podwy¿ki cen, choæ nadal nie wiadomo jakie. – Mamy ju¿ sygna³y, ¿e smartfony i tablety z Androidem bêd¹ dro¿sze – mówi jeden z dystrybutorów elektroniki. Sami producenci nie chc¹ komentowaæ sprawy. – Na obecn¹ chwilê niestety niewiele mo¿emy powiedzieæ. Jako oddzia³ globalnej korporacji nie odnosimy siê do takich sytuacji – mówi Krzysztof Kurek z Sony Mobile Communications. Inne firmy nie ustosunkowa³y siê do naszych pytañ.
+
+Wiadomo, ¿e cena za licencjê bêdzie zró¿nicowana, a wide³ki maj¹ siê zaczynaæ ju¿ od kilku dolarów na urz¹dzenie. Dla najwiêkszej grupy koszt Androida ma wynieœæ ok. 20–30 dol., ale tañsze telefony mog¹ w efekcie zdro¿eæ mocniej. Reuters poda³, ¿e najwy¿sze op³aty mog¹ siêgaæ nawet 40 dol. od urz¹dzenia. Zapewne chodziæ mo¿e o tañsze marki, producentom bowiem, ale te¿ Google’owi, do dro¿szych modeli op³aca siê do³o¿yæ, bo zazwyczaj nabywca dro¿szego telefonu jest sk³onny wiêcej wydaæ na aplikacje. Google tematu kosztów nie komentuje.
+
+Jakie podwy¿ki?
+
+– Google dotychczas zarabia³ g³ównie na reklamach przy swoich us³ugach – szczególnie w wyszukiwarce. Inne produkty i us³ugi mog³y byæ darmowe, bo „tylko” budowa³y ekosystem. Zosta³ on jednak zbudowany tak dobrze, ¿e teraz wprowadzenie op³at za preinstalowanie aplikacji w smartfonach nie powinno mu zaszkodziæ – mówi Andrzej Ogonowski z platformy SMSAPI. – Nie spodziewam siê masowych rezygnacji producentów telefonów z systemem Android, choæ podstawowe aplikacje, które oferuje Google, czyni¹ telefon ju¿ na starcie funkcjonalnym. Na przyk³ad SMS w domyœlnej aplikacji Androida posiada funkcjê RCS, rozwi¹zanie Google’a, które wzbogaca wiadomoœæ o wideo, grafikê czy dodatkowe przyciski – dodaje.
+
+Android to zdecydowany lider rynku mobilnego. Wed³ug danych serwisu StatCounter, jeœli chodzi o systemy operacyjne na urz¹dzeniach mobilnych, to globalnie ma 76,6 proc. udzia³u, a w Europie – 71,7 proc. Jego pozycja systematycznie roœnie, Android pokona³ iOS firmy Apple we wrzeœniu 2012 r. W Polsce sta³o siê to w podobnym okresie, z tym ¿e na naszym rynku królowa³ wczeœniej system Symbian. Obecnie dominacja Androida w Polsce jest jeszcze bardziej wyraŸna ni¿ w innych krajach, jego udzia³ we wrzeœniu wynosi³ 96 proc.
+
+Aplikacje na fali
+
+Google ma ca³y system zarabiania na popularnoœci g³ównego systemu, Google Play jest równie¿ najwiêksz¹ platform¹ z aplikacjami, ma ich ponad 2,8 mln. 2,2 mln to oferta AppStore’a, w sklepie Windows czy Amazon jest po ponad 600 tys. aplikacji.
+
+Jednak pod wzglêdem przychodów ze sprzeda¿y aplikacji zdecydowanym liderem jest Apple, z 22,6 mld dol. przychodów AppStore w pó³roczu jest prawie dwa razy lepszy ni¿ Google Play. – U¿ytkownicy produktów Apple’a to wyznawcy, s¹ mocno zwi¹zani z ca³ym œrodowiskiem, chêtnie p³ac¹ za aplikacje dostêpne tylko na ich urz¹dzenia. Android jest zdecydowanie mniej ekskluzywny, ale za to bardziej demokratyczny pod tym wzglêdem – mówi kolejny producent.
+
+Rynek aplikacji roœnie, wed³ug Criteo ich udzia³ w transakcjach to w Polsce 33 proc. – Œredni udzia³ zakupów w wersji mobile wœród naszych klientów wynosi w tym roku oko³o 30 proc. W porównaniu z poprzednim roku wartoœæ ta wzros³a o oko³o 10 proc.. Widzimy utrzymuj¹cy siê trend i szacujemy, ¿e w kolejnym rokiem obserwujemy kolejny wzrost o 10–15 proc. – mówi Damian Sinior, dyrektor sprzeda¿y Media4U.
+
+W Europie najwy¿szy udzia³ transakcji mobilnych w rynku maj¹ kraje skandynawskie oraz Wielka Brytania, to ju¿ 50–60 proc.
+
+W Polsce Google jest prawdziwym potentatem tak¿e na rynku aplikacji, wœród najpopularniejszych w czo³owej dziesi¹tce, jeœli chodzi o wrzeœniowych liderów, produkty ze stajni Google to a¿ szeœæ aplikacji. Do tego trzy zajmuj¹ ca³e podium, co jasno pokazuje, kto na rynku rozdaje karty. Z badania Google Consumer Barometer 2017 wynika, ¿e ju¿ 70 proc. Polaków korzysta ze smartfonów.
+
+prof. dr hab. Dariusz Jemielniak, Akademia Leona KoŸmiñskiego:
+
+Wprowadzenie op³at licencyjnych wieñczy genialny, wieloletni plan Google’a, który opiera³ siê na wykorzystaniu technologii i ideologii open source do zdobycia rynku, a nastêpnie – do umiejêtnego usuwania lub nierozwijania kluczowych czêœci systemu, dostêpnego w ramach otwartego oprogramowania. Wszystko po to, aby wprowadziæ Androida z powrotem do typowo korporacyjnego modelu funkcjonowania. Bior¹c pod uwagê, ¿e Android w wersji otwartej nie zawiera podstawowych funkcjonalnoœci, których obecnie oczekuj¹ klienci, mo¿na siê spodziewaæ, ¿e wiêkszoœæ producentów urz¹dzeñ mobilnych w krótkim okresie bêdzie po prostu p³aciæ za licencjê. W d³ugim okresie, byæ mo¿e, da to impuls to prób stworzenia alternatyw, choæ wielu ju¿ podejmowa³o takie z mizernym skutkiem, istotnym powodem atrakcyjnoœci Androida jest dostêp do milionów aplikacji. Po wprowadzeniu op³at licencyjnych u¿ytkownicy niestety mog¹ ju¿ nie mieæ tak du¿ego wyboru, a rozwój Chromebooków, które tak¿e korzystaj¹ z aplikacji Androida, jak i z klasycznego Linuxa, pieczêtuje hegemoniê Google’a na mobilnym rynku.

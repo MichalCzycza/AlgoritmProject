@@ -1,0 +1,75 @@
+WI-FI 6 – NOWY KRÓL NETU?
+
+12 lipca 2020
+
+Dziêki nowemu standardowi 802.11ax, sieci Wi-Fi, z jakich korzystamy w biurach czy domach, bêd¹ znacznie szybsze. Wi-Fi 6 tak¿e znacznie lepiej radzi sobie z przeci¹¿eniem sieci bezprzewodowych. Jednak na razie sprzêt nowej generacji jest drogi, a jego oferta niezbyt szeroka. Czy wiêc nowy standard szybko siê upowszechni?
+
+Ma³o która technologia telekomunikacyjna w ostatnich kilkunastu latach zrobi³a tak¹ karierê jak Wi-Fi. Jedn¹ z pierwszych rzeczy, gdy pojawiamy siê w nowym miejscu, jest poszukiwanie dostêpu do sieci bezprzewodowej, zdobycie do niej has³a i zalogowanie siê, by móc korzystaæ z internetu.
+
+Funkcjonowanie tego typu bezprzewodowych sieci w dobie, gdy na potêgê korzystamy ze smartfonów czy tabletów sta³o siê czymœ oczywistym. Do Wi-Fi zaœ mo¿emy pod³¹czyæ ju¿ nie tylko komputery czy telefony, ale i takie urz¹dzenia jak telewizory czy lodówki.
+
+Eksperci od telekomunikacji podkreœlaj¹, ¿e technologia Wi-Fi swój sukces zawdziêcza m.in. ci¹g³emu zwiêkszaniu szybkoœci transmisji przy jednoczesnym zachowaniu kompatybilnoœci wstecznej w nowych standardach. Zaczyna³a ponad 20 lat temu od oferowana prêdkoœci po³¹czenia na poziomie 2 Mb/s. Nastêpne generacje Wi-Fi sukcesywnie przyspiesza³y, oferuj¹c 11 Mb/s, 54 Mb/s, 300 Mb/s, 2 Gb/s, itd.
+
+Czy jednak dziœ, gdy tak g³oœno jest o nadejœciu technologii 5G, która ma za sob¹ poci¹gn¹æ rewolucjê nie tylko ³¹cznoœci, ale i biznesie, nie oznacza odchodzenia w cieñ Wi-Fi?
+
+Rynkowi eksperci wskazuj¹, ¿e nic na to nie wskazuje. Tym bardziej, ¿e w ubieg³ym roku na rynku pojawi³ siê nowy standard Wi-Fi 6, dziêki czemu tego typu sieci bezprzewodowa mog¹ pokrywaæ wiêkszy obszar i pozwalaæ na szybszy transfer danych. Technologia zosta³a na pocz¹tku wdro¿ona w kilku smartfonach klasy premium, m.in. w urz¹dzeniach z serii Samsung Galaxy S10, Note10 oraz smartfonach Apple - iPhone 11 i iPhone 11 Pro.
+
+- Wi-Fi 6, czyli technologia 802.11ax, stanowi kolejny etap w ewolucji rozwi¹zañ w zakresie bezprzewodowego dostêpu do sieci. Gwarantuje funkcjonalnoœci, które zapewni¹ u¿ytkownikom wiêkszy komfort korzystania z us³ug sieciowych, a operatorom pozwala na œwiadczenie us³ug o wy¿szej jakoœci. Dlatego te¿ obie te grupy - u¿ytkownicy i operatorzy - s¹ ¿ywo zainteresowane systematycznym rozpowszechnianiem zastosowania technologii Wi-Fi 6 - przekonuje Karol Kujawa, Solution Architect IP, Data Center & Cloud w firmie Vector Solutions, integratora rozwi¹zañ telekomunikacyjnych.
+
+Warto w tym miejscu wyjaœniæ, ¿e Wi-Fi Alliance, organizacja zajmuj¹ca siê opracowywaniem i nadawaniem nazw standardom Wi-Fi w ubieg³ym roku postanowi³a uproœciæ nazewnictwo.
+
+Wczeœniej kolejne wersje protoko³ów bezprzewodowej ³¹cznoœci by³y oznaczane trudnymi do zapamiêtania (poza w¹skim krêgiem specjalistów) po³¹czeniami liczb i ma³ych liter - 802.11ax, 802.11ac, 802.11n. W przypadku najnowszego standardu zdecydowano siê po prost¹ i oczywist¹ nazwê Wi-Fi 6, pod któr¹ ukrywa siê standard 802.11ax. Nowe nazewnictwo  obejmie tak¿e starsze wersje i 802.11n to Wi-Fi 4, a 802.11ac - to teraz Wi-Fi 5.
+
+Nie tylko prêdkoœæ
+
+Jedn¹ z najbardziej oczywistych zalet Wi-Fi 6 w stosunku do poprzedników jest to, ¿e zwiêkszono w nim maksymaln¹ prêdkoœæ przesy³u danych do blisko 10 Gb/s, tj. o ok. 40 proc. w porównaniu z poprzednimi technologiami. Jednak eksperci wskazuj¹ na szereg innych atutów, m.in na to, ¿e Wi-Fi 6 znacznie lepiej rozwi¹zuje problemy wywo³ane przepe³nieniem i przeci¹¿eniem tego typu sieci.
+
+- Wi-Fi 6 oznacza przede wszystkim wiêksze pasmo i ni¿sze opóŸnienie w przesyle danych. Dziêki wykorzystaniu tej technologii mo¿liwa jest obs³uga wiêkszej liczby stacji jednoczeœnie, co dziœ stanowi jedno z kluczowych ograniczeñ. Z kolei inteligentne anteny gwarantuj¹ zdecydowanie lepszy zasiêg oraz wy¿sz¹ przepustowoœæ, a dziêki temu odczuwalnie lepsze jest sieci w œrodowisku o wysokiej liczbie urz¹dzeñ koñcowych. Co wiêcej, Wi-Fi 6 ogranicza zjawisko "smogu elektromagnetycznego", a dziêki efektywniejszej wspó³pracy z urz¹dzeniami mobilnymi zmniejsza zu¿ycie ich baterii i ogranicza niepotrzebn¹ emisjê transmisji radiowych - mówi Bart³omiej Anszperger, Network Solutions Sales Director w Huawei Enterprise Polska.
+
+Przekonuje on, ¿e dziêki wykorzystywanym w Wi-Fi 6 nowym technologiom w wyraŸny sposób podniesiony zostaje komfort korzystania z sieci bezprzewodowej. Jednoczeœnie mo¿liwe jest wykorzystanie tej technologii ³¹cznoœci w œrodowiskach, gdzie do tej pory korzystanie z Wi-Fi by³o bardzo utrudnione. - Nowa generacja Wi-Fi œwietnie nadaje siê zatem do wykorzystania tam, gdzie pod³¹czonych jest du¿o urz¹dzeñ, na przyk³ad na uczelniach, w obiektach sportowych, czy w miejscach publicznych, ale te¿ w logistyce i przemyœle  - stwierdza Anszperger.
+
+Maciej Turski, marketing manager w firmie TP-Link, które produkuje i sprzedaje urz¹dzenia sieciowe zgodne z tym standardem podkreœla natomiast, ¿e Wi-Fi 6 wnosi do komunikacji bezprzewodowej wiele nowych technologii zwiêkszaj¹cych jej prêdkoœæ, stabilnoœæ i pojemnoœæ takich jak OFDMA (segmentacja pasma), MU-MIMO 8x8 (technologia zwiêkszaj¹ca przepustowoœæ sieci), wykorzystanie kana³u o szerokoœci 160 MHz, czy te¿ kolorowanie BSS (ka¿dej sieci w lokalizacji przypisuje siê kolor, dziêki czemu ³atwiej je rozró¿niæ - oznacza to, ¿e ka¿dy punkt dostêpowy mo¿e unikn¹æ zak³óceñ, gdy zobacz¹ one swoje punkty dostêpowe w ró¿nych kolorach).
+
+- W praktyce oznacza to, ¿e Wi-Fi 6 pozwala na stworzenie infrastruktury bezprzewodowej o porównywalnych osi¹gach jak po³¹czenia kablowe w standardzie Gigabit Ethernet. Bêdziemy mogli ³¹czyæ po Wi-Fi wiêcej urz¹dzeñ, z wy¿szymi prêdkoœciami, a nasza sieæ bêdzie mniej wra¿liwa na zak³ócenia powodowane przez inne punkty dostêpowe Wi-Fi w s¹siedztwie - wyjaœnia Maciej Turski.
+
+Sprzeda¿owe prognozy
+
+W opublikowanym kilka miesiêcy temu przez firmê Abi Research raporcie "54 Technology Trends to Watch in 2020" jej analitycy prognozuj¹, ¿e do koñca 2020 roku dostawy chipsetów Wi-Fi 6 wzrosn¹ ponad trzykrotnie w porównaniu z 2019 r. do prawie 383 mln sztuk.
+
+Wdro¿enia rozwi¹zañ Wi-Fi 6 znacznie przyspiesz¹ w aplikacjach mobilnych, komputerowych i sieciowych. - W 2020 roku technologia Wi-Fi 6 bêdzie coraz czêœciej stosowana w wielu kategoriach urz¹dzeñ, w tym w smartfonach, tabletach, komputerach, produktach sieciowych i niektórych domowych urz¹dzeniach rozrywkowych premium - mówi Andrew Zignani, g³ówny analityk w Abi Research. W 2021 r. wed³ug ABI Research nast¹pi natomiast pierwszy prawdziwy wzrost rozwi¹zañ Wi-Fi 6 dla aplikacji Internetu Rzeczy (IoT).
+
+Aleksander Styœ, VAR Account Manager w firmie Zyxel, które produkuje i sprzedaje urz¹dzenia sieciowe potwierdza, ¿e zainteresowanie Wi-Fi 6 jest tak¿e coraz bardziej widoczne w Polsce.
+
+- Wi-Fi 6 to kolejny krok naprzód w kierunku jeszcze szybszej i bardziej wydajnej sieci bezprzewodowej. Jest to technologia, która wzbudza zainteresowanie naszych partnerów. Na naszym ostatnim webinarium na ten temat mieliœmy du¿¹ frekwencjê i sporo pytañ jej dotycz¹cych. Pojawiaj¹ siê ju¿ pierwsze projekty, w których sieæ bezprzewodowa jest konstruowana w oparciu o urz¹dzenia zgodne ze standardem 802.11ax - mówi Aleksander Styœ.
+
+Zastrzega jednak, ¿e ze wzglêdu na obecn¹ sytuacjê zwi¹zan¹ z pandemi¹ jej upowszechnienie mo¿e byæ spowolnione m.in. z powodu opóŸnieñ w realizacji projektów lub dostawach urz¹dzeñ. Widoczny wzrost sprzeda¿y mo¿e przesun¹æ siê na drug¹ po³owê bie¿¹cego roku.
+
+W¹ska oferta w¹skim gard³em
+
+Maciej Turski z TP-Link zauwa¿a natomiast, ¿e urz¹dzenia w standardzie Wi-Fi 6 to w tej chwili najszybciej rosn¹ca kategoria u dystrybutorów i sprzedawców sprzêtu sieciowego. Wed³ug niego trend ten bêdzie siê nasila³ wraz z kolejnymi premierami produktowymi.
+
+- Pamiêtajmy, ¿e obecnie oferta sprzêtu sieciowego w Wi-Fi 6 jest jeszcze doœæ uboga w stosunku do poprzednich generacji. Podobnie wygl¹da sytuacja z urz¹dzeniami klienckimi: laptopami, smartfonami. Na wbudowan¹ kartê sieciow¹ w standardzie AX mo¿emy liczyæ tylko w urz¹dzeniach, które zadebiutowa³y w drugiej po³owie 2019 roku lub póŸniej. Urz¹dzenia z obs³ug¹ standardu Wi-Fi 6 to dziœ nowoœæ na rynku, ale ich popularnoœæ bêdzie jednak szybko ros³a. Natomiast o upowszechnieniu siê technologii bêdziemy mogli mówiæ w perspektywie kilku lat - uwa¿a uwagê Maciej Turski.
+
+Wed³ug niego wynika to m.in. z doœæ d³ugiego cyklu ¿ycia elektroniki u¿ytkowej: smartfony wymieniamy przeciêtnie co dwa lata, komputery osobiste - co mniej wiêcej trzy, natomiast sprzêt sieciowy potrafi nam s³u¿yæ nawet piêæ lat i d³u¿ej.
+
+- Firma, która w 2018 czy 2019 roku dokona³a inwestycji w wydajn¹ infrastruktur¹ sieciow¹ w standardzie 802.11ac (poprzednik Wi-Fi 6), na modernizacjê zdecyduje siê zapewne dopiero za kilka lat. Co istotne, debiut nowego standardu ³¹cznoœci bezprzewodowej nie powoduje, ¿e urz¹dzenia pracuj¹ce w starszych standardach znikaj¹ z rynku. Ci¹gle jeszcze, szeœæ lat po debiucie standardu AC (Wi-Fi 5), sprzedawane s¹ i maj¹ kilkudziesiêcioprocentowy udzia³ w rynku podstawowe urz¹dzenia w leciwym standardzie 802.11n (Wi- Fi 4) - zauwa¿a Maciej Turski.
+
+Bart³omiej Anszperger ocenia, ¿e zainteresowanie technologi¹ Wi-Fi 6 osi¹gnê³o ju¿ wysoki poziom i bêdzie ci¹gle ros³o. W Huawei widz¹ to zarówno po liczbie zapytañ od klientów, jak i ogromnej popularnoœci, jak¹ cieszy³a siê seria webinarów na ten temat oraz konferencja Huawei ICT Day Online, gdzie producent  pokaza³ przekrój swej oferty Wi-Fi 6.
+
+- Jesteœmy firm¹, która wspó³tworzy standard Wi-Fi 6 i ze wzglêdu na istotny skok technologiczny zwi¹zany z tym rozwi¹zaniem, planujemy w najbli¿szym czasie zrezygnowaæ z dostarczania i rozwoju urz¹dzeñ poprzednich generacji. Bêdziemy dziêki temu mogli w pe³ni skupiæ siê na zwiêkszeniu dostêpnoœci i obni¿ce cen urz¹dzeñ obs³uguj¹cych Wi-Fi 6 - zapowiada mened¿er Huawei.
+
+Zauwa¿a, ¿e oddolna potrzeba przejœcia na now¹ technologiê zdecydowanie wzros³a wraz z pandemi¹ COVID-19 i "lockdownem" gospodarki. Martwi siê jednak, ¿e przeszkod¹ w jej szybkim upowszechnieniu jest stosunkowo niska œwiadomoœci zalet tej technologii u u¿ytkowników koñcowych. - Ale pracujemy nad popraw¹ tego stanu rzeczy - podkreœla.
+
+Ceny musz¹ spaœæ
+
+Aleksander Styœ za wiêksz¹ obecnie przeszkodê do inwestowania u¿ytkowników w Wi-Fi 6 uwa¿a doœæ wygórowane ceny sprzêtu i ci¹gle jeszcze ograniczon¹ liczbê urz¹dzeñ klienckich zgodnych ze standardem 802.11ax. Standardowi sprzyja natomiast ci¹gle rosn¹ce wymagania, co do wydajnoœci i jakoœci sieci bezprzewodowych. - Mamy coraz wiêcej urz¹dzeñ, które korzystaj¹ z sieci bezprzewodowej i przesy³amy coraz wiêcej danych. Urz¹dzenia dzia³aj¹ce w oparciu o starsze technologie mog¹ stawaæ siê niewydajnie i nie spe³niaæ oczekiwañ u¿ytkowników sieci bezprzewodowej - uwa¿a Aleksander Styœ.
+
+Karol Kujawa jest ostro¿ny w kwestii okreœlania ram czasowych upowszechniania siê Wi-Fi 6, gdy¿ zale¿y to od wielu czynników np. tempa inwestycji w infrastrukturê sieciow¹. A to s¹ decyzjê biznesowe, które ka¿dy podmiot rynkowy podejmuje indywidualnie. Wed³ug niego bêdzie to zapewne proces roz³o¿ony w czasie, gdy¿ w wielu miejscach nie zosta³ jeszcze w pe³ni wdro¿ony standard Wi-Fi 5 (802.11ac). Z kolei w przypadku gospodarstw domowych czêsto funkcjonuj¹ rozwi¹zania oparte o jeszcze starsz¹ technologiê 802.11n.
+
+- Z pewnoœci¹ czynnikiem napêdzaj¹cym rozwój Wi-Fi 6 jest rosn¹ce zapotrzebowanie na coraz wiêksz¹ przep³ywnoœæ sieci. Uwa¿am, ¿e Wi-Fi 6 szybciej upowszechni siê ni¿ poprzedni standard, gdy¿ niesie za sob¹ us³ugi o szybkoœci 10Gb/s. W przypadku planów modernizacji sieci, warto pod¹¿aæ w kierunku Wi-Fi 6, gdy¿ sieæ oparta na tym standardzie mo¿e z powodzeniem zast¹piæ sieci kablowe w biurze, organizacji czy instytucji - twierdzi Karol Kujawa.
+
+Zwraca uwagê np. na to, ¿e przy zastosowaniu rozwi¹zañ Wi-Fi 6, na jeden metr kwadratowy mo¿e przypadaæ a¿ cztery razy wiêcej u¿ytkowników korzystaj¹cych z sieci ni¿ mia³o to miejsce przy standardzie poprzedniej generacji. Z tego wzglêdu, Wi-Fi 6 sprawdzi siê znakomicie w miejscach, gdzie docelowo mo¿e gromadziæ siê wielu ludzi - np w centrach handlowych czy biurach.
+
+Bez w¹tpienia najnowszy standard Wi-Fi ma potencja³, by zmieniæ jakoœæ korzystania z sieci bezprzewodowych, któr¹ u¿ytkownicy odczuj¹ w sposób widoczny i doceni¹. W biznesie du¿o jednak mo¿e zale¿eæ od tego, na ile Wi-Fi 6 pozwoli na obni¿enie kosztów sieci i urz¹dzeñ dostêpowych.
+
+autor: Marek Jaœlan

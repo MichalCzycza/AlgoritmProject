@@ -1,0 +1,79 @@
+arena
+atp
+boisko
+bramka
+bramkarz
+czerwona kartka
+ćwierćfinał
+doping
+drużyna
+euroliga
+fifa
+finał
+fivb
+gem
+gol
+grand prix
+hokej
+hokejowy
+igrzyska olimpijskie
+kajakarstwo
+kolarstwo
+kolarz
+kontuzja
+kort
+koszykarz
+koszykówka
+lekkoatletyka
+lekka atletyka
+liga
+ligowy
+mecz
+medal
+medalista
+mistrz
+mistrz europy
+mistrz olimpijski
+mistrz świata
+mistrzostwa europy
+mistrzostwa świata
+mistrzostwo
+narciarstwo
+narciarz
+nba
+olimpiada
+olimpijski
+piłka
+piłka nożna
+piłka ręczna
+piłkarz
+podium
+półfinał
+reprezentant
+rezerwowy
+rywal
+rzut karny
+rzut rożny
+serwis
+serwować
+serwujący
+set
+siatkarz
+siatkówka
+speedway
+szkoleniowiec
+tenis
+tenisista
+tenisowy
+trener
+turniej
+uefa
+wicemistrz
+wta
+wyścig
+zawodnik
+zawody
+żółta kartka
+żużel
+żużlowiec
+żużlowy

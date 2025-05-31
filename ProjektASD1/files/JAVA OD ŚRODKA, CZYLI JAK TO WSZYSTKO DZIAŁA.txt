@@ -1,0 +1,59 @@
+JAVA OD ŚRODKA, CZYLI JAK TO WSZYSTKO DZIAŁA?
+
+4 maja 2018
+
+Java od środka, czyli jak to wszystko działa?
+
+Podczas naszych wyzwań dowiedzieliśmy się, że nasze programy pisane w języku Java działają dzięki wirtualnej maszynie Java. Dowiedzieliśmy si� tak�e, �e na wirtualnej maszynie Java mo�na uruchamia� programy napisane w innych j�zykach programowania jak np. Scala, Groovy czy Kotlin. Dzisiejszy post b�dzie po�wi�cony temu, jak to wszystko dzia�a. Nie jest to wiedza niezb�dna, by zacz�� swoj� przygod� z programowaniem, wr�cz przeciwnie, wielu programist�w potrafi polec na rozmowie kwalifikacyjnej o pytania dotycz�ce maszyny wirtualnej, jednak do bieg�ego pos�ugiwania si� j�zykami ze �wiata maszyny wirtualnej Java, warto dowiedzie� si� co mamy pod przys�owiow� mask�.
+
+Maszyna wirtualna Java
+
+Wszystko zaczyna si� od Wirtualnej Maszyny Java. To ona stoi za wielkim sukcesem ca�ej platformy Java. To tak�e ona jako pierwsza musi by� zainstalowana w naszym komputerze by m�c uruchomi� jakiekolwiek aplikacje napisane w j�zyku Java.
+
+W praktyce JVM jest to jaki� program instalowany tak jak inne programy w naszym komputerze. Oznacza to, �e wirtualna maszyna pracuje w danym systemie operacyjnym i musi by� z nim zgodna, st�d na stronie Oracle mo�na j� �ci�gn�� dla takich system�w jak Windows, Linux, macOS czy Solaris. Tak�e Android (Dalvik) i inne systemy mobilne lub wbudowane maj� swoj� wersj� maszyny wirtualnej. Mo�emy nawet uruchamia� programy w Javie na Lego Mindstorms.
+
+Jest tak�e wiele implementacji JVM. Najpopularniejsza jest oczywi�cie wirtualna maszyna tworzona przez firm� Oracle, za� wcze�niej przez firm� Sun, tak zwana Oracle HotSpot. Firma Oracle przej�a te� projekt innej maszyny wirtualnej produkowanej przez BEA Systems, czyli JRockit. Projekt ten zosta� jednak zamkni�ty, za� cz�� jego kodu zosta�a przeniesiona do maszyny wirtualnej Oracle oraz do projektu OpenJDK. Jest to otwarto �r�d�owa implementacja maszyny wirtualnej zainicjowana jeszcze przez firm� Sun. Jest to domy�lna implementacja stosowana w systemach Linux oraz obrazach Docker�a czy innych system�w konteneryzacji. Projekt OpenJDK jest tak�e prowadzony przez firm� Oracle przy wsp�pracy z innymi firmami i programistami z ca�ego �wiata. Tak naprawd�, obecna wersja maszyny wirtualnej Java dost�pnej na stronie jest hybryd� dw�ch starszych wersji przej�tych przez firm� Oracle (HotSpot i JRockit) oraz w du�ej mierze bazuje na OpenJDK. Plan firmy Oracle, zapowiedziany na filmie, jest taki, by OpenJDK by�a wersj� kr�tkoterminow�, przeznaczon� dla zwyk�ych u�ytkownik�w, developer�w, za� Oracle JDK ma by� wersj� d�ugoterminow�, dla firm i instytucji, kt�rym zale�y na stabilno�ci przed d�ugi czas oraz ma zawiera� dodatkowe, komercyjne funkcjonalno�ci. Zmieni� si� tak�e spos�b wprowadzania nowych zmian, od wersji 9tej, nowa wersja maszyny wirtualnej i j�zyka Java ma by� wydawana co p� roku, za� co 3 lata ma by� wydawana wersja LTS czyli Long Term Support, przeznaczona w�a�nie dla firm wymagaj�cych d�u�szego utrzymania.
+
+Na rynku dost�pnych jest tak�e sporo implementacji innych firm. IBM oraz fundacja Eclipse stoi za rozwojem maszyny wirtualnej IBM J9. Firma Azul System rozwija swoj� otwarto �r�d�ow� wersj� maszyny wirtualnej Zulu opartej o OpenJDK oraz komercyjn� wersj� Zing.
+
+Jedn� z nowo�ci w �wiecie Java s� prace nad now� wersj� maszyny wirtualnej zwanej GraalVM. Celem projektu jest stworzenie jeszcze wydajniejszej wersji JVM wspieraj�cej wi�cej j�zyk�w programowania, jak JavaScript (tak�e Node.js), C, C++, Rust, Ruby, R czy Python. GrallVM ma si� sta� tak�e cz�ci� baz danych MySQL oraz Oracle. W przeciwie�stwie do innych maszyn wirtualnych, GraalVM jest napisany g��wnie w j�zyku Java (97.3%).
+
+
+
+Wi�cej innych implementacji wirtualnej maszyny mo�ecie znale�� na tej oraz tej stronie Wikipedii.
+
+Ka�da licz�ca si� maszyna wirtualna musi spe�nia� specyfikacj� oraz przej�� Java Technology Compatibility Kit, TCK.
+
+Wirtualna maszyna Java jest udost�pniana w dw�ch wersjach, Java Runtime Environment (JRE) zawieraj�ca podstawow� instalacj� maszyny wirtualnej wraz z dodatkowymi bibliotekami i komponentami, s�u��c� przede wszystkim do uruchamiania program�w oraz Java Development Kit (JDK) zawieraj�ca wszystko co ma JRE plus dodatkowe narz�dzia dla programist�w. Poni�ej diagram przedstawiaj�cy r�nice mi�dzy obydwiema wersjami dost�pny na stronie Oracle.
+
+Od kodu do programu, czyli proces kompilacji
+
+Java jest j�zykiem kompilowanym, to znaczy, �e zanim uruchomimy nasz program, ca�y nasz kod b�dzie musia� zosta� poddany procesowi kompilacji do postaci zrozumia�ej dla komputera. W przypadku Javy, nasze programy b�d� uruchamiane przez maszyn� wirtualn� Java, wi�c narz�dzie zwane kompilatorem b�dzie t�umaczy� nasz kod Java do postaci kodu maszynowego zrozumia�ego dla JVM. Dlatego bez wzgl�du na to, jakiego j�zyka programowania u�yjemy, Java, Scala, Kotlin, Groovy, etc, nasz kod zawsze b�dzie t�umaczony do kodu maszyny wirtualnej, zwanego bytecode. Dopiero sama maszyna wirtualna t�umaczy ten kod dalej do postaci zrozumia�ej przez system operacyjny naszego komputera.
+
+Jako programi�ci b�dziemy pisa� nasz kod Java w plikach .java, za� kompilator b�dzie je t�umaczy� na bytecode i umieszcza� w plikach .class. W przypadku �rodowiska IntelliJ IDEA, pliki typu class znajduj� si� domy�lnie w katalogu out. Po klikni�ciu takiego pliku .class w �rodowisku IntelliJ IDEA, mo�emy zobaczy� kod w j�zyku Java. Dzieje si� tak dzi�ki dekompilacji, czyli procesowi odwrotnemu do kompilacji, polegaj�cemu w�a�nie na uzyskaniu kodu �r�d�owego z plik�w .class. Oczywi�cie nie b�dzie to dok�adnie nasz kod, tylko wygenerowany kod Java pasuj�cy do zawarto�ci pliku .class.
+
+Kompilator jest dla programist�w bardzo przydatnym narz�dziem. Ju� na etapie t�umaczenia naszego kodu na j�zyk maszyny wirtualnej jest w stanie wy�apa� wszystkie b��dy sk�adni (dostajemy wtedy tak zwany b��d kompilacji) oraz ostrzega nas przed wieloma potencjalnymi b��dami. Drug� zalet� j�zyk�w kompilowanych jest mo�liwo�� �zrzucenia� cz�ci w�asnej pracy na kompilator, kt�ry mo�e za nas wykona� cz�� pracy, by skr�ci� nasz czas. Jednym z przyk�ad�w jest tutaj cho�by s�owo var, gdzie to kompilator domy�la si� typu zmiennej.
+
+�rodowiska programistyczne proces kompilacji wykonuj� za nas. W praktyce, do budowania wi�kszych projekt�w u�ywa si� odpowiednich narz�dzi jak Maven czy Gradle (wcze�niej popularny by� Ant), kt�re tak�e wykonuj� t� prac� za nas. Jednak nic nie stoi na przeszkodzie by�my sami skompilowali nasz kod. Wraz z JDK dostajemy narz�dzie javac, kt�re jest w�a�nie kompilatorem j�zyka Java. Co ciekawe, jest ono tak�e stworzone w oparciu o j�zyk Java.
+
+Gotowy program
+
+W przeciwie�stwie do program�w napisanych np. w j�zyku C++, gotowe programy, czyli zbi�r plik�w *.class, nie s� umieszczane w pliku exe, lecz s� pakowane do plik�w .jar. Plik jar to tak naprawd� plik typu zip, dlatego bez problemu mo�emy go otworzy� i zobaczy� co jest w �rodku oraz dzi�ki kompresji ma on mniejszy rozmiar. Opr�cz plik�w *.class., we wn�trzu pliku jar mog� znajdowa� si� dodatkowe pliki potrzebne do wykonania programu.
+
+W �rodowisku IntelliJ IDEA, by zbudowa� plik jar ze swojego projektu, nale�y wej�� do ustawie� projektu (Plik -> Project Structure). W nowo otwartym oknie nale�y klikn�� zak�adk� �Artifacts� z lewej strony, a nast�pnie nacisn�� zielony przycisk �plus�. Z listy wybieramy opcj� �JAR�, a nast�pnie �From modules with dependencies�. W kolejnym okienku wskazujemy klas� z metod� main, kt�r� chcemy uruchomi�, naciskamy �OK� i zamykamy wszystkie okna ponownie naciskaj�c �OK�. Gdy ju� mamy stworzony artefakt definiuj�cy nasz plik jar, wystarczy go zbudowa� klikaj�c �Build -> Build Artifacts�, a nast�pnie wybieraj�c nazw� naszego artefaktu i klikaj�c znowu �Build�. Nasz plik pojawi si� w katalogu �out/artifacts/**�.
+
+Plik jar mo�emy uruchomi� u�ywaj�c polecenia java:
+
+java -jar my-jar.jar
+Informacja o klasie, w kt�rej uruchamiana jest metoda main, znajduje si� w pliku MANIFEST.MF:
+
+Manifest-Version: 1.0
+SearchApplication-Class: pl.kodolamacz.MyApplication
+
+Jak to dzia�a?
+Jednak co si� dzieje, gdy pr�bujemy uruchomi� nasz plik jar? W pierwszej kolejno�ci, uruchamiana jest maszyna wirtualna Java. Pierwsz� rzecz� kt�r� robi to za�adowanie klas, czyli wczytanie plik�w .class znajduj�cych si� w pliku jar. Odpowiada za to narz�dzie zwane ClassLoader. Po wczytaniu nast�puje proces ��czenia (Linking), kt�ry dzieli si� na pi�� etap�w. Najpierw nast�puje weryfikacja (Verification) poprawno�ci klas, potem faza przygotowania (Preparation) gdzie nast�puje stworzenie p�l statycznych oraz ich inicjalizacja warto�ciami domy�lnymi, a nast�pnie etap rozwi�zania (Resolution) zale�no�ci pomi�dzy klasami, czyli upewnienia si�, �e wszystkie typy z kt�rych chcemy skorzysta� s� dost�pne oraz czy maj� oczekiwane pola i metody. To w ostatnim etapie mo�emy dosta� takie b��dy jak NoSuchFieldError, NoSuchMethodError, IllegalAccessError znane dobrze programistom Java. Gdy wszystko zostanie prawid�owo rozwi�zane, nast�puje faza sprawdzenia dost�p�w do p�l, metod i klas (Access Control), czyli uwzgl�dnienie takich s��w jak public, protected, private, a na koniec faza zast�powania nadpisanych metod (Overriding). Gdy ju� przeszli�my przez proces ��czenia (Linking), nast�puje faza inicjalizacji klas, po kt�rej s� one ju� gotowe do u�ycia. Je�li korzystamy z metod natywnych, np. napisanych w j�zyku C++, s� one �adowane po inicjalizacji klas. Teraz nast�puje wykonanie naszego programu. Gdy program zamyka si�, wywo�ywana jest metoda System.exit(status), kt�ra znowu wywo�uje Runtime.getRuntime().exit(status). Wtedy nast�puje zatrzymanie maszyny wirtualnej i zwolnienie wszystkich zasob�w.
+
+Proces ten w ca�o�ci opisany jest w specyfikacji maszyny wirtualnej w rozdziale pi�tym.
+
+Optymalizacja
+W trakcie dzia�ania maszyny wirtualnej, nasz kod, dok�adnie bytecode, jest t�umaczony na kod maszynowy i wykonywany. Na pierwszy rzut oka mo�e si� wydawa�, �e ten proces dodatkowego t�umaczenia jest zbyt du�ym kosztem dzia�ania programu, przez co powsta�o wiele legend m�wi�cych o tym, �e Java czy og�lnie �rodowisko JVM jest wolne. Oczywi�cie nie jest to prawd�, bo maszyny wirtualne zawieraj� w sobie szereg optymalizacji stosowanych w trakcie wykonywania programu, przez co potrafi� uruchamia� operacje prawie tak szybko jak natywny kod napisany w j�zyku C/C++ czy nawet niekiedy szybciej. Dzieje si� to dzi�ki dynamicznemu kompilatorowi JIT czyli Just-In-Time. Jego zadaniem jest w�a�nie t�umaczenie kodu maszyny wirtualnej (bytecode) do kodu maszynowego wykonywanego na danym urz�dzeniu. W swojej pracy uwzgl�dnia on zar�wno to jak program dzia�a, jak i architektur� sprz�tow� na kt�rym dzia�a program. Dlatego potrafi on jednocze�nie przy�pieszy� cz�sto u�ywane fragmenty kodu (tak zwane gor�ce punkty) jak i zoptymalizowa� kod wynikowy z uwzgl�dnieniem u�ywanego typu procesora. To w�a�nie uwzgl�dnianie danego sprz�tu oraz to jak program pracuje mo�e spowodawa�, �e stworzony przez JIT kod maszynowy mo�e by� tak wydajny. Oczywi�cie mo�e si� okaza�, �e pr�by optymalizacyjne zastosowane przez JIT nie przynios�y oczekiwanego skutku, lecz wr�cz przeciwny, wi�c kompilator mo�e si� wycofa� ze swoich zmian i inaczej skompilowa� kod wynikowy. Takie pr�by skutkuj� tym, �e maszyna wirtualna, do osiagni�cia swojej pe�nej wydajno�ci, potrzebuje si� �rozgrza�. Dlatego najwi�kszy zysk ze stosowania JIT uzyskamy dla program�w dzia�aj�cych przez d�u�szy czas, st�d bardzo cz�sto Java jest stosowana w rozwiazaniach serwerowych.

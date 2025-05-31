@@ -1,0 +1,126 @@
+adobe
+algorytm
+algorytmiczny
+amd
+android
+antywirus
+api
+apple
+arkusz kalkulacyjny
+bza danych
+bazodanowy
+bezpieczeństwo danych
+bajt
+bios
+bit
+bitowy
+c++
+chip
+cisco
+cloud computing
+cpu
+data mining
+debian
+dell
+deweloper
+dns
+dysk twardy
+elektroniczny
+ethernet
+firewall
+gigabajt
+gps
+hosting
+informatyczny
+informatyk
+informatyka
+intel
+internet
+java
+język programowania
+karta graficzna
+karta sieciowa
+kod źródłowy
+kodek
+kompilator
+kompresja
+komputer
+komputerowy
+laptop
+linuksowy
+linux
+logowanie
+malware
+metadane
+microsoft
+mikroprocesor
+moc obliczeniowa
+motorola
+mrp
+multimedia
+multimedialny
+mysql
+notebook
+nvidia
+obliczeniowy
+odbc
+olap
+online
+openai
+oprogramowanie
+oracle
+outsourcing
+pamięć operacyjna
+pamięć ram
+pendrive
+piksel
+płyta główna
+poczta elektroniczna
+podpis elektroniczny
+portal internetowy
+procesor
+procesorowy
+programista
+programistyczny
+programowanie
+provider
+przeglądarka
+router
+serwer
+serwerownia
+serwerowy
+serwlet
+sieciowy
+sieć komputerowa
+skype
+spam
+spamer
+sql
+ssh
+ssl
+sterowniksystem operacyjny
+sun microsystems
+system plików
+sztuczna inteligencja
+szyfrowanie
+tablet
+tcp
+teleinformatyczny
+transmisja danych
+trojan
+tunelowanie
+twitter
+ubuntu
+układ scalony
+uniksowy
+unix
+update
+uwierzytelnienie
+web
+webowy
+wifi
+windows
+wirtualny
+wirus komputerowy
+wyszukiwarka
+youtube

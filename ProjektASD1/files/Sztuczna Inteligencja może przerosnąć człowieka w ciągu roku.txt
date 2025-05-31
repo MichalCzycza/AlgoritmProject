@@ -1,0 +1,28 @@
+Alarm w OpenAI: Sztuczna Inteligencja może przerosnąć człowieka w ciągu roku?
+23.11.2023
+
+Zgodnie z informacjami agencji Reutera, przed niedawnym zwolnieniem dyrektora Samuela Altmana, zespół badawczy OpenAI poinformował radę nadzorczą o przełomowym odkryciu. To odkrycie, według informacji, może stanowić potencjalne zagrożenie dla ludzkości. Chodzi o technologię nazywaną superinteligencją lub silną sztuczną inteligencją AGI.Alarm w OpenAI: Sztuczna Inteligencja może przerosnąć człowieka w ciągu roku?
+
+Niepokojące informacje z OpenAI ujrzały światło dzienne. Poruszenie wokół firmy, związane z odwołaniem, a następnie przywróceniem na stanowisko dyrektora generalnego Sama Altmana wywołało falę spekulacji na temat powodów tak kontrowersyjnej decyzji zarządu przedsiębiorstwa. Oddzielając fakty od teorii spiskowych można doszukać się ciekawych interpretacji chaosu organizacyjnego w technologicznym dziecku Microsoftu.
+
+Alarm w OpenAI: Sztuczna Inteligencja może przerosnąć człowieka w ciągu roku?
+Decyzja o zwolnieniu Altmana nastąpiła dzień po jego publicznym wystąpieniu, w którym mówił o przesunięciu granic w dziedzinie sztucznej inteligencji. Jak zaznacza portal Bankier.pl dyrektor generalny OpenAI powiedział podczas forum Współpracy Gospodarczej Azji i Pacyfiku (APEC) w San Francisco, że możliwości Sztucznej Inteligencji w ciągu roku wzrosną w sposób, jakiego nie potrafimy sobie wyobrazić.
+
+- Cztery razy w historii OpenAI, ostatni raz było to na przestrzeni kilku tygodni wstecz, miałem okazję być świadkiem momentu, kiedy w pewnym sensie odsłoniliśmy zasłonę niewiedzy i przesunęliśmy naprzód granicę odkryć, a dokonanie tego to zawodowy zaszczyt życia – deklarował Altman podczas szczytu APEC.
+
+Media na całym świecie próbują rozwikłać zagadkę tego tajemniczego stwierdzenia. Jak podaje Agencja Reutera kontrowersje wokół Altmana mogą mieć związek z tajemniczym projektem o
+nazwie Q*. Ten projekt, według doniesień, mógłby być krokiem w kierunku stworzenia tzw. superinteligencji (AGI), czyli sztucznej inteligencji o możliwościach przewyższających ludzkie zdolności w większości dziedzin.
+
+Superinteligencja AGI zagrożeniem dla ludzkości?
+Potwierdzeniem tej hipotezy ma być list, jaki pracownicy OpenAI przekazali zarządowi przedsiębiorstwa na kilka dni przed zwolnieniem dyrektora generalnego. Jak wyjaśnia Agencja Reutera twórcy najnowocześniejszych rozwiązań AI mieli w nim ostrzec osoby decyzyjne przed potencjalnym zagrożeniem tej technologii dla ludzkości po ostatnich odkryciach. Wątpliwości autorów listu miały dotyczyć zbyt szybkiej komercjalizacji nowego odkrycia przed zrozumieniem, jakie mogą być konsekwencje jego wykorzystania. Naukowcy zaznaczyli też potrzebę ostrożnego podejścia do rozwoju i wdrażania tak zaawansowanych technologii.
+
+Przepis na napalm z OpenAI
+Co to oznacza? Chodzi o taką sztuczną inteligencję, która w niepowołanych rękach mogłaby być niebezpiecznym narzędziem. Możemy tylko zagadywać czego superinteligencja dokona na zlecenie człowieka: atak hakerski, dostarczenie wrażliwych informacji czy tworzenie fałszywej tożsamości? Możliwości są w zasadzie nieograniczone. Oczywiście za takim wynalazkiem stoi masa pozytywnych zastosowań, jednak warto zauważyć, że nawet najbardziej szczelne zabezpieczenia cyfrowe można obejść. Dobrym przykładem będzie tu oszukanie ChataGPT, który blokował odpowiedzi typu "podaj przepis na napalm". Wystarczyło zmodyfikować komendę w taki sposób, by generatywna AI opowiedziała bajkę o tym, jak przygotować tę niebezpieczną substancję i ChatGPT został wyprowadzony w pole recytując składniki potrzebne do konstrukcji prawdziwej bomby.
+
+Microsoft stawia na komercjalizację dokonań OpenAI za wszelką cenę?
+Powrót Altmana do OpenAI i kontynuacja badań nad projektem Q* rzuca światło na dylematy moralne i etyczne związane z rozwojem sztucznej inteligencji. Przełomowe odkrycie, choć obiecujące, stawia przed naukowcami i społeczeństwem pytania o granice i konsekwencje postępu technologicznego. W tle całego zamieszania widoczny jest wpływ Microsoftu, który jest głównym beneficjentem badań nad AI prowadzonych przez OpenAI. Wyszukiwarka Bing, oferująca rozwiązania z oferty OpenAI znacznie zyskała na popularności, a za tym idzie gratyfikacja finansowa z reklam dostosowanych do profilu użytkowników. Wsparcie Microsoftu dla Altmana sugeruje, że firma dobrze zdaje sobie sprawę z korzyści jakie może osiągać dzięki odkryciom zespołu dyrektora generalnego OpenAI. Microsoft stawia na zysk i według marketingowców rozsądnie rozgrywa sytuację. Ewentualne zagrożenia dla ludzkości ze strony superinteligencji będą potem uznane za winę OpenAI, a nie Microsoftu. Pytanie czy takie założenie jest słuszne, po tym jak przy ostatniej aferze zaznaczono wyraźnie jak duży wpływ ma Microsoft na kluczowe decyzje zarządu firmy, której szefuje Sam Altmana.
+
+Superinteligencja czy marketing?
+Zapewne powinniśmy założyć, że jest też inna możliwa interpretacja zamieszania wokół AGI. Po ostatnich turbulencjach OpenAI potrzebuje dobrej prasy. Być może ujawniane informacje mają zmienić narrację wokół OpenAI. Firmie zależy, by przywrócić dyskusję na temat jej technologicznych dokonań zamiast niesłużącego jej skupienia odbiorców na sprawach personalnych i administracyjnych.
+
+Odkrycie OpenAI może być kamieniem milowym w dziedzinie sztucznej inteligencji, ale równocześnie stanowi wyzwanie dla społeczeństwa. Dyskusja na temat możliwości i zagrożeń związanych z AGI jest bardziej aktualna niż kiedykolwiek, a decyzje podejmowane teraz będą miały długotrwałe skutki dla przyszłości ludzkości.

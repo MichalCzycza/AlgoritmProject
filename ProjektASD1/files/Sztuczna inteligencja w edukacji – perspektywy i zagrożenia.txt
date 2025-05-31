@@ -1,0 +1,46 @@
+Raport PARP: Sztuczna inteligencja w edukacji – perspektywy i zagrożenia
+
+23.11.2023
+
+W dobie cyfrowej rewolucji, sztuczna inteligencja (artificial intelligence, AI, SI) stała się nieodzownym elementem wielu sektorów, w tym dziedziny nauki. Najnowszy raport PARP na temat zastosowania AI w edukacji ujawnia, że jest to obszar o dużym potencjale, który wciąż czeka na pełne wykorzystanie.
+
+Sztuczna inteligencja stanowi kluczowy nurt, który kształtuje współczesny świat. Obszar edukacji staje się coraz istotniejszym polem zastosowań tej technologii. SI może istotnie ułatwić i usprawnić proces nauczania na każdym etapie edukacyjnym – od uczniów, poprzez nauczycieli, aż po całe systemy edukacyjne.
+
+Dzięki SI nauczyciele mają możliwość monitorowania postępów uczniów w czasie rzeczywistym, identyfikowania trudności w nauce oraz dostosowywania metod nauczania oraz materiałów do indywidualnych potrzeb uczących się. Obecnie wykorzystywane narzędzia, takie jak generatory tekstu, głosu, wideo czy platformy edukacyjne typu Learning Experience Platform (LXP), istotnie podnoszą efektywność i dostępność edukacji. Jednocześnie wprowadzają elementy grywalizacji oraz ulepszone fora dyskusyjne online, co zwiększa zaangażowanie uczniów.
+
+ChatGPT w edukacji
+Tematyka wykorzystania sztucznej inteligencji  w edukacji zyskuje coraz większą popularność wśród nauczycieli, wykładowców, a także w strukturach ministerstw oświaty i Unii Europejskiej. W 2022 roku powstały nowe narzędzia: firma Open AI wprowadziła ChatGPT, a Microsoft Bing. ChatGPT i Bing to zaawansowane modele językowe SI, zdolne do generowania treści na różnorodne tematy. Co istotne, te narzędzia posiadają zdolność do interakcji z ludźmi, co sprawia, że mogą odgrywać kluczową rolę w komunikacji międzyludzkiej, wspierając zarówno osoby indywidualne, jak i przedsiębiorstwa.
+
+Wyniki badania przeprowadzonego przez Impact Research wskazują, że nauczyciele aktywniej wykorzystują ChatGPT niż uczniowie. Z 51% nauczycieli korzystających z tej technologii, 40% z nich używa jej przynajmniej raz w tygodniu. Co istotne, 38% nauczycieli pozwala uczniom na korzystanie z ChatGPT, natomiast tylko 15% uczniów przyznaje się do używania programu bez zgody nauczyciela.
+
+Zarówno większość uczniów (63%) jak i nauczycieli (72%) zgadza się, że ChatGPT wprowadza zmiany w tradycyjnym modelu nauczania. Większość uczniów jest przekonana, że technologia może pomóc im stawać się lepszymi uczniami oraz przyspieszyć proces nauki. Jednocześnie obie grupy zgodnie twierdzą, że ChatGPT stanie się nieodzownym narzędziem w osiąganiu sukcesu na studiach i w miejscu pracy.
+
+Wpływ sztucznej inteligencji na rynek pracy
+Rola Polski w globalnym świecie sztucznej inteligencji jest istotna, a prognozy wskazują na potencjał zautomatyzowania nawet do 49% czasu pracy do roku 2030. Zgodnie z badaniem przeprowadzonym przez Goldman Sachs, około 2/3 miejsc pracy w Europie i USA jest zagrożona.. W skali globalnej, sztuczna inteligencja może zautomatyzować około 300 milionów pełnoetatowych stanowisk pracy w głównych gospodarkach. Wyzwania związane z dostosowaniem umiejętności pracowników do wymagań zmieniającego się rynku pracy są szczególnie skierowane na sektor edukacji. To podkreśla konieczność dostosowania kwalifikacji i umiejętności pracowników do dynamicznie ewoluującego rynku pracy, stanowiąc wyzwanie istotne szczególnie dla sektora edukacyjnego, obejmującego kształcenie ustawiczne oraz pozaformalne.
+
+Zespołowa praca nad rozwojem AI
+AI może zmienić oblicze edukacji, ale wymaga to ścisłej współpracy między programistami, nauczycielami i uczniami, a także ciągłej kontroli ludzkiej, aby zapewnić, że korzyści z jej stosowania przewyższają wszelkie potencjalne ograniczenia i ryzyka.
+
+Współpraca w edukacji jest niezbędna na wielu poziomach, aby efektywnie wdrożyć i wykorzystać sztuczną inteligencję. Przede wszystkim, konieczne jest zaangażowanie programistów, którzy tworzą narzędzia AI, tak aby były one dostosowane do realnych potrzeb edukacyjnych. Programiści muszą pracować blisko z nauczycielami i uczniami, aby zrozumieć specyfikę procesu nauczania i uczenia się, co pozwoli na tworzenie bardziej skutecznych i użytecznych aplikacji edukacyjnych opartych na AI.
+
+Nauczyciele z kolei powinni być włączeni w proces tworzenia i ulepszania systemów AI, aby mogli wpływać na ich kształt i funkcjonalność. Muszą również otrzymywać odpowiednie szkolenia, które pozwolą im na pełne wykorzystanie możliwości oferowanych przez sztuczną inteligencję.
+
+Uczniowie również mają ważną rolę w tym procesie, ponieważ to na ich potrzebach i możliwościach powinny być oparte systemy sztucznej inteligencji. Ich feedback jest cenny dla dalszego rozwoju narzędzi AI, które mają służyć ich edukacji.
+
+Współpraca taka powinna także obejmować kwestie etyczne, bezpieczeństwa i prywatności, aby systemy sztucznej inteligencji były bezpieczne, sprawiedliwe i zaufane. Dlatego też kluczowa jest stała komunikacja między wszystkimi zainteresowanymi stronami, w tym również decydentami i twórcami polityk edukacyjnych, którzy powinni wspierać wdrażanie tych technologii poprzez odpowiednie przepisy i finansowanie.
+
+Bariery i wyzwania w stosowaniu AI
+Istnieje obawa, że postęp sztucznej inteligencji może wprowadzić ograniczenia w naturalnych międzyludzkich relacjach, które odgrywają kluczową rolę w procesie edukacji i socjalizacji. Ponadto, istnieją obawy związane z kwestiami prywatności, bezpieczeństwa danych oraz potencjalnym zredukowaniem ludzkich interakcji w edukacji, które są istotne dla kompleksowego rozwoju społecznego i emocjonalnego uczniów. Dlatego, oprócz postępu technologicznego, równie ważne jest ustanowienie odpowiednich ram etycznych i regulacyjnych.
+
+Raport dotyczący wykorzystania sztucznej inteligencji w edukacji identyfikuje szereg przeszkód, z jakimi borykają się nauczyciele podczas prób wprowadzenia tej technologii do procesu nauczania. Dostrzega się ograniczenia techniczne, które stanowią przeszkodę w szerokim wykorzystaniu AI w różnych kontekstach edukacyjnych. Warto także wspomnieć o ograniczeniach finansowych, ponieważ ograniczone budżety szkół i instytucji edukacyjnych często nie pozwalają na inwestycje w infrastrukturę i zakup nowoczesnych narzędzi, co utrudnia wdrożenie oraz rozwój technologii sztucznej inteligencji w edukacji.
+
+Według dostępnych danych, w Polsce istnieje jeszcze znaczne pole do poprawy w zakresie adaptacji i efektywnego wykorzystania sztucznej inteligencji. Wciąż wiele osób i organizacji nie wykorzystuje pełnego potencjału dostępnych technologii.,Znaczący odsetek dopiero zaczyna eksperymentować z AI. Warto zauważyć, że ponad 30% polskich respondentów w swojej działalności w ogóle nie korzysta z możliwości, jakie oferuje sztuczna inteligencja. Jednak 23% ankietowanych potwierdziło zaawansowany poziom wykorzystania tej technologii. Najliczniejszą grupę badanych stanowią osoby, które dopiero odkrywają potencjał AI i przeprowadzają swoje pierwsze eksperymenty z jej zastosowaniem, co stanowi 44% ogółu respondentów.
+
+Bezpieczeństwo i uzależnienie od świata technologicznego
+Kwestie prywatności i bezpieczeństwa danych również stanowią istotną barierę. Ryzyko naruszenia tych aspektów może odstraszać instytucje od implementacji rozwiązań opartych na sztucznej inteligencji, zwłaszcza że dotyczą one wrażliwych informacji na temat uczniów.
+
+Ostatnim wyzwaniem jest uzależnienie od technologii. Istnieje obawa, że nadmierne poleganie na sztucznej inteligencji może blokować u uczniów rozwój tak ważnych umiejętności, jak krytyczne myślenie czy zdolności interpersonalne, które są niezbędne w życiu zawodowym i społecznym.
+
+Celem raportu “Wykorzystanie sztucznej inteligencji w edukacji” jest zgłębienie stosunkowo jeszcze mało zbadanego zagadnienia wykorzystania sztucznej inteligencji (SI) w edukacji. Wiedza, jej zdobywanie, rozpowszechnianie i efektywne wykorzystywanie stanowią obecnie kluczowy czynnik rozwoju gospodarczego i dobrobytu społecznego. To właśnie umiejętne korzystanie z wiedzy pozwala jednostkom i organizacjom odnosić sukcesy, przyczyniając się do wzrostu ich wartości i konkurencyjności na rynku. Raport skupia się na roli sztucznej inteligencji w procesie edukacyjnym, podkreślając, że rozwój technologii, w szczególności SI, może istotnie usprawnić ten proces.
+
+Cały raport jest dostępny do pobrania na stronie PARP i stanowi cenne źródło informacji dla wszystkich zainteresowanych tematyką wykorzystania sztucznej inteligencji w edukacji.

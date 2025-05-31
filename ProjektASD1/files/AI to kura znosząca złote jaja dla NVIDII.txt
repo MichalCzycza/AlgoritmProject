@@ -1,0 +1,25 @@
+AI to kura znosząca złote jaja dla NVIDII. Firma notuje przeszło 200% wzrost przychodów
+
+22-11-2023
+
+AI to kura znosząca złote jaja dla NVIDII. Firma notuje przeszło 200% wzrost przychodów
+
+NVIDIA opublikowała swoje najnowsze wyniki finansowe za trzeci kwartał roku fiskalnego 2024, który zakończył się 29 października. Firma zarobiła 18,12 mld dolarów, ustanawiając kolejny rekord wszechczasów, ponieważ popyt na wszystkie jej produkty wzrastał zarówno sekwencyjnie, jak i rok do roku. Podobnie jak w poprzednim kwartale, działalność Zielonych w zakresie centrów danych okazała się najbardziej lukratywna dzięki bezprecedensowemu popytowi na GPU wykorzystywane na potrzeby sztucznej inteligencji (AI) i obliczeń o wysokiej wydajności (HPC).
+
+Wzrost aż o 206% rok do roku
+NVIDIA odnotowała przychody w wysokości 18,12 mld dolarów za kwartał, co stanowi wzrost aż o 206% rok do roku, a także dochód netto w wysokości 9,243 mld dolarów, co stanowi wzrost aż o 1259% w porównaniu z tym samym kwartałem rok wcześniej. Marża brutto spółki wzrosła do 74%, co oznacza wzrost o 20,4% r/r. „Nasz silny wzrost odzwierciedla szerokie przejście platform branżowych z obliczeń ogólnego przeznaczenia na przyspieszone przetwarzanie i generatywną sztuczną inteligencję” – powiedział Jensen Huang, założyciel i dyrektor generalny firmy.
+
+Zieloni to teraz głównie firma od GPU do AI
+Głównym motorem napędowym szybkiego wzrostu przychodów i rentowności NVIDII była działalność w zakresie centrów danych, która zaliczyła wzrost o 279% rok do roku i 41% kwartał do kwartału do 14,51 miliarda dolarów, co stanowi rekord firmy. Zapotrzebowanie na platformy HGX oparte na architekturze Hopper w tym kwartale ze strony różnych dostawców usług w chmurze, start-upów i dużych przedsiębiorstw było bezprecedensowe, dlatego producent sprzedał wszystko, co był w stanie wyprodukować. Ponadto firma dostarczyła szereg innych produktów do centrów danych, w tym te obsługujące procesory graficzne AI i HPC.
+
+„Segment centrów danych wzrósł o 324% w porównaniu z rokiem ubiegłym i o 38% w ujęciu sekwencyjnym, w dużej mierze odzwierciedlając silny rozwój naszej platformy HGX opartej na architekturze GPU Hopper, oferowanej dostawcom usług w chmurze (CSP), w tym CSP bazującym na GPU, konsumenckim firmom internetowym oraz przedsiębiorstwom – powiedziała Colette Kress, dyrektor finansowa NVIDII. „Nasza sprzedaż produktów do centrów danych opartych na architekturze Ampere GPU była znacząca, ale systematycznie spadała, w miarę jak zbliżaliśmy się do końca tej architektury”.
+
+Warto odnotować, że 20–25% przychodów z centrów danych pochodziło od chińskich klientów NVIDII, którzy nie będą już mogli nabywać wysokowydajnych procesorów graficznych AI i HPC ze względu na ograniczenia eksportowe Stanów Zjednoczonych. Firma nie spodziewa się z tego powodu bezpośredniego wpływu na swoją działalność, ponieważ popyt ze strony innych klientów zrównoważy podobno odpływ klientów z Chin.
+
+Gamingowa jednostka także zalicza wzrosty
+Choć daleko jej do historycznych rekordów, gamingowa jednostka NVIDII odnotowała przychody w wysokości 2,856 mld USD, co oznacza wzrost o 15% kw./kw. i 81% r./r. Działalność firmy w branży gier była napędzana zwiększoną sprzedażą kart graficznych GeForce RTX z serii 40 do komputerów stacjonarnych i notebooków, w miarę jak rynek komputerów PC wykazywał oznaki ożywienia. Ponadto dział profesjonalnej wizualizacji firmy również odnotował wzrost o 10% sekwencyjnie i 108% rok do roku, do 416 milionów dolarów. Tymczasem dział OEM zarobił 73 miliony dolarów, co oznacza praktycznie brak zmian w porównaniu z trzecim kwartałem roku budżetowego 2023, ale to 7 milionów dolarów więcej w porównaniu z poprzednim kwartałem.
+
+NVIDIA 
+Jeśli chodzi o jednostkę biznesową Automotive, jej przychody w trzecim kwartale roku budżetowego 2024 osiągnęły 261 milionów dolarów, co stanowi wzrost o 3% w porównaniu z drugim kwartałem i o 4% wzrost w porównaniu z tym samym okresem ubiegłego roku.
+
+NVIDIA spodziewa się, że przychody w czwartym kwartale roku fiskalnego 2024 wyniosą około 20 miliardów dolarów ± 2%, przy marżach brutto brutto GAAP na poziomie około 74,5% ± 0,5%.

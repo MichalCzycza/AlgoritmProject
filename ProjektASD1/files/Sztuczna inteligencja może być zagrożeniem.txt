@@ -1,0 +1,21 @@
+Sztuczna inteligencja może być zagrożeniem dla każdego z nas
+
+23.11.2023
+
+Unia Europejska dąży do tego, aby nowe technologie, a w szczególności sztuczna inteligencja, były wykorzystywane w sposób maksymalnie etyczny, co pozwoliłoby ograniczyć ich negatywny wpływ zarówno na życie jednostki, jak i na całe społeczeństwa.
+
+Sztuczna inteligencja jest wszechobecna. Negatywne skutki jej działania jako jedni z pierwszych odczuli artyści. Trenowana na gigantycznych zbiorach danych narusza ona interesy wielu osób, choćby autorów książek. 28 czerwca 2023 roku kancelaria prawna Joseph Saveri Law Firm poinformowała o złożeniu pozwu w imieniu dwóch pisarzy – Paula Tremblaya i Mony Awad – przeciwko firmie OpenAI. Uzasadniają oni pozew tym, że twórczość ich klientów została bezprawnie wykorzystana do szkolenia ChatGPT. Wszystko miało odbyć się bez ich zgody i bez otrzymania jakiejkolwiek rekompensaty.
+
+
+Artyści staną się zbędni
+Zdolność AI do wykorzystywania treści na masową skalę prowadzi nie tylko do naruszania praw autorów, ale również zagraża ich przyszłej płynności finansowej. AI wytrenowane na nielegalnie pozyskanych danych może doprowadzić do tego, że artyści dla firm staną się zbędni. Firmy będą bowiem  mogły samodzielnie wygenerować treści w stylu wypracowanym przez konkretnych artystów, na co poświęcili przecież lata ciężkiej pracy.
+
+Medyk, którego wizerunek wbrew prawu i jego woli wykorzystano do promocji preparatów, może mówić o zniesławieniu.
+
+Znaczącym problemem jest także skala uprzedzeń systemów sztucznej inteligencji opartych na gigantycznych zbiorach danych, szczególnie na Internecie. Według badaczy, uprzedzenia występujące w danych wykorzystanych do szkoleń mogą bezpośrednio prowadzić do generowania treści opartych na tych uprzedzeniach czy stereotypach.  Nietrudno sobie wyobrazić jak takie systemy mogą wpłynąć negatywnie na ludzkie życie. Możemy spodziewać się, że w przyszłości pojawią się, przykładowo, systemy używane przez organy państwa do przyspieszania podejmowania decyzji dotyczących jednostek. Zakładając, że taki system został wyszkolony na treściach zawierających uprzedzenia wobec osób czarnoskórych, mógłby on stosunkowo częściej odmawiać udzielenia prawa do wjazdu do państwa członkowskiego UE takim osobom.
+
+Przestępcy będą bezkarni
+W tym zakresie AI tworzy dodatkowe ryzyko wprowadzenia niesprawiedliwych praktyk przez podmioty państwowe (przy wykorzystaniu analogicznych systemów profilowania również przez podmioty prywatne), które w bezpośredni sposób mogą prowadzić do pogłębienia nierówności i marginalizacji określonych grup społecznych.
+
+
+źródło: "Rzeczpospolita.pl"

@@ -1,0 +1,34 @@
+﻿Poznaj Killnet, rosyjskich patriotów hakerskich nękających Europę
+
+10.09.2022
+
+Prorosyjscy hakerzy uderzają w kraje podejmujące działania przeciwko Rosji w związku z jej wojną na Ukrainie.
+Grupa rosyjskich haktywistów atakuje europejskie rządy, infrastrukturę, a nawet swój cenny konkurs piosenki Eurowizji, przeprowadzając cyberataki i kampanie dezinformacyjne, aby zniechęcić do Ukrainy podczas wojny. Prokremlowski kolektyw hakerski o nazwie Killnet rozpoczął tego lata lawinę ataków na zachodnie sieci rządowe i infrastrukturę krytyczną, głośno ogłaszając zwycięstwa na kanałach mediów społecznościowych i w rosyjskich mediach oraz przyprawiając o ból głowy organy bezpieczeństwa.
+
+Killnet radykalnie różni się od wysoko wykwalifikowanych rosyjskich hakerów pracujących dla grup agencji wywiadowczych, takich jak Fancy Bear i Sandworm, które zyskały sławę dzięki hakerom Amerykańskiego Komitetu Narodowego Demokratów i uruchomieniu niszczycielskiego oprogramowania ransomware o nazwie NotPetya. Z drugiej strony Killnet przypomina bardziej wściekły, nacjonalistyczny tłum online uzbrojony w niskiej jakości narzędzia i taktyki cyberofensywne. Jego wielkim sukcesem jest układanie narracji o wojnie.
+
+„Wielu w Rosji postrzega ich jako bohaterów” – powiedział Stefan Soesanto, badacz z Centrum Studiów nad Bezpieczeństwem w ETH Zurich, śledzący działalność haktywistów w konflikcie. „Celem Killnet jest zmuszenie Europejczyków do zapłaty za ich jednoznaczne wsparcie dla Ukrainy i ukaranie Zachodu i ich rządy za ich antyrosyjskie nastroje”.
+
+Grupa zyskała sławę dzięki przeprowadzaniu rozproszonych ataków typu „odmowa usługi” (DDoS) i „oszpecaniu” stron internetowych, w których zamieszczają prorosyjskie wiadomości na zhakowanych stronach internetowych. Po raz pierwszy pojawiła się w styczniu jako cyberprzestępczy dostawca usług hakerskich do wynajęcia, ale kiedy pod koniec lutego rosyjskie czołgi zaatakowały Ukrainę, grupa szybko zaczęła bardzo głośno popierać rosyjską ofensywę.
+
+„KillNet działa w emocjonalny sposób. Szukają zemsty i odwetu za krzywdy, które według nich zostały wyrządzone Rosji i jej obywatelom” – powiedział badacz znany pod pseudonimem internetowym CyberKnow , który monitoruje grupy zagrożeń i publikuje badania na temat śledzenia cyberbezpieczeństwa . CyberKnow poprosił o nieujawnianie jego prawdziwego nazwiska. „Są niezwykle reakcyjni na bieżące wydarzenia geopolityczne”.
+
+W ostatnich miesiącach atakował ponad 10 krajów zachodnich, w tym Łotwę, Litwę, Norwegię, Włochy, Stany Zjednoczone, a ostatnio Estonię. Jeden z bardziej głośnych ataków grupy miał miejsce w maju podczas konkursu piosenki Eurowizji. Rosji zakazano udziału w konkursie, więc grupa hakerów podjęła próbę ataku DDoS. Włoski departament policji udaremnił atak, ale kraj ten doznał odwetowych ataków na strony internetowe Senatu i Narodowego Instytutu Zdrowia.
+
+W czerwcu celowanie przez KillNet na Litwę wyniosło ją na nowy poziom popularności w rosyjskich mediach po blokadzie Wilna towarów na rosyjskie terytorium Kaliningradu. W przesłanym w Internecie przekazie wideo grupa zażądała, aby Litwa zezwoliła na tranzyt towarów do Kaliningradu; w przeciwnym razie ataki byłyby kontynuowane. Ostatecznie atak przyniósł „ograniczony sukces” według wiceminister obrony narodowej Margiris Abukevičius, z usuniętymi kilkoma stronami internetowymi – ale wzbudził ogromne zainteresowanie.
+
+Estonia była celem 17 sierpnia, ale władze poinformowały, że atak na usługi e-administracji został „w dużej mierze niezauważony” przez obywateli Estonii.
+
+Specjaliści od cyberbezpieczeństwa opisują tę grupę jako bardziej uciążliwą niż będącą zagrożeniem. Większość krajów będących celem jego ataków była w stanie odeprzeć ataki lub łatwo się po nich podnieść. W artykule naukowym opublikowanym w zeszłym miesiącu stwierdzono, że rola, jaką społeczności haktywistów odegrały w wojnie na Ukrainie, była „niewielka”, dodając, że „zamiast atakować infrastrukturę krytyczną, miały miejsce masowe ataki na losowe strony internetowe w domenach .ru” i „.ua”, co powoduje, że nie można znaleźć dowodów na głośne działania”.
+
+Ale sukces Killnet nie leży w jego wyrafinowaniu ani umiejętnościach hakowania, infiltrowania i niszczenia sieci. Grupa odcisnęła swoje piętno, głośno ogłaszając zwycięstwo, gdy udało się zablokować usługi – dzięki sprytnemu PR, który obejmuje krzykliwe filmy z ogłoszeniami, memy i obrazy ze znakami wodnymi, które są udostępniane w mediach społecznościowych i zgłaszane przez serwisy informacyjne.
+
+Wojna postawiła Killnet przeciwko podobnym kolektywom wspierającym Kijów. Grupa hakerska Anonymous wypowiedziała wojnę Rosji na początku konfliktu, a ukraiński rząd zmobilizował swój krajowy sektor IT i międzynarodowych sympatyków do utworzenia „IT Armii Ukrainy”, która koordynuje cyberkampanie i ataki na rosyjskie cele.
+
+Rosyjscy patrioci toczą zaciekłą walkę z powszechnie wspieranymi ukraińskimi haktywistami, twierdzą naukowcy. „W przeciwieństwie do Killnet, armia IT jest niezwykle wytrwała w celowaniu w jeden konkretny cel przez tygodnie lub miesiące, na przykład listę instytucji finansowych, które opublikowali jako cele na początku wojny”, powiedział Soesanto. „Są prawdopodobnie bardziej skuteczne niż Killnet o wielkość 100”.
+
+Killnet powiedział, że chce współpracować z rosyjskim rządem, ale jak dotąd nic nie wskazuje na to, że jest pod bezpośrednią kontrolą urzędników państwowych.
+
+Jednak jej wyraźna prokremlowska postawa może być problemem dla Rosji. „To sprawia, że ​​Rosja jest potencjalnie odpowiedzialna za szkody spowodowane takimi operacjami, chyba że władze w Moskwie zdystansują się od takich złośliwych operacji” – powiedział Patryk Pawlak, dyrektor wykonawczy w Europejskim Instytucie Studiów nad Bezpieczeństwem.
+
+autor: Matthew Karnitschnig, źródło: Politico.eu
